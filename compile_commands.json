@@ -1,0 +1,16 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/gcc",
+      "-c",
+      "-pthread",
+      "-I./vendor/concord/include",
+      "-o",
+      "bin/main",
+      "src/main.c"
+    ],
+    "directory": "/Users/aolx/Projects/discord_bot",
+    "file": "/Users/aolx/Projects/discord_bot/src/main.c",
+    "output": "/Users/aolx/Projects/discord_bot/bin/main"
+  }
+]
