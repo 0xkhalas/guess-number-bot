@@ -3,7 +3,7 @@
 #include <concord/discord.h>
 #include "commands.h"
 
-#define BOT_TOKEN "MTE2NTY3ODIzMjM3NzQ5OTczOQ.G64pC8._X358LT6z-LVmQkdpZsa1zao9HopGXKXVh7DbM"
+#define BOT_TOKEN ""
 #define GUILD_ID 939501463825170472
 
 
